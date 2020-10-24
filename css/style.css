@@ -1,0 +1,18 @@
+.header{
+    background: salmon;
+}
+.tagline{
+    background-color: rgba(3,  78, 129, 0.5);
+}
+.carrusel{
+    background-color: rgba(3,  78, 129, 0.5);
+}
+figure img{
+    width: 250px;
+}
+.galeria-img{
+    align-items: center;
+}
+footer{
+    background-color: salmon;
+}
